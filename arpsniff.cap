@@ -1,5 +1,4 @@
 # ArpSniff
-# By SuXY
 
 net.probe on
 sleep 5
